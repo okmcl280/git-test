@@ -10,7 +10,7 @@ public class MyGit {
         System.out.println("初始化");
     }
     
-    public void destory() {
+    public void destroy() {
         System.out.println("销毁");
     }
 }
